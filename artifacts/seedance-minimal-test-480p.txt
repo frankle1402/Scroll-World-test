@@ -1,0 +1,8 @@
+Archive: seedance-minimal-test-480p.mp4.b64
+Restore: bash artifacts/restore-video.sh
+Output: artifacts/seedance-minimal-test-480p.mp4
+302.AI task: cgt-20260801045520-4bv27
+Model: doubao-seedance-2-0-260128
+Requested settings: 480p, 16:9, 4 seconds, audio off, watermark off
+Media: H.264, 864x496, 24 fps, 4.041667 seconds, 287906 bytes
+SHA-256: 4c0926c6da40754d26b231f21e77db56fc73efa00c900fe65a91017234a5368f
