@@ -1,0 +1,4 @@
+interface:
+  display_name: "Scroll World"
+  short_description: "Build Codex-image and 302 Seedance scroll cinematics"
+  default_prompt: "Use $scroll-world to design and build a seamless scroll-driven world with Codex-generated stills and 302.AI Seedance 2.0 video."
